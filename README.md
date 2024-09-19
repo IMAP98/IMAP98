@@ -2,8 +2,6 @@
 
 ### A passionate mid developer from Mexico <img src="https://komarev.com/ghpvc/?username=imap98&label=Profile%20views&color=dfb317&style=flat" alt="imap98" align="right" />
 
-<picture> <img align="right" src="./img/programming.gif" width=250px></picture>
-
 ## <picture><img src="./img/programmer.gif" width=70px></picture> About me:
 
 -   👨‍💻 All of my projects are available at [https://ignaciomoisesarteagapelcastre.netlify.app/](https://ignaciomoisesarteagapelcastre.netlify.app/)
@@ -13,6 +11,8 @@
 -   🤓 Always learning new things
 
 -   ⚡ Fun fact **I love cats 😽 & Metal music 🤟🏻**
+
+<picture> <img align="right" src="./img/programming.gif" width=250px></picture>
 
 <br>
 
