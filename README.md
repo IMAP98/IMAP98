@@ -3,8 +3,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
 
 <style>
-	body {
-		font-family: 'Fira Code';
+	body, p, div, a {
+		font-family: 'Fira Code' !important;
 	}
 </style>
 
