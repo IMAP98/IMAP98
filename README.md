@@ -1,18 +1,8 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
+<h2> Hello world! <picture><img src="./img/earth.gif" width=20px></picture>  </h2>
 
-<style>
-	body {
-		font-family: 'Fira Code';
-	}
-</style>
+<h2> I'm Ignacio Moises AP! A passionate mid developer from Mexico <img src="https://komarev.com/ghpvc/?username=imap98&label=Profile%20views&color=dfb317&style=flat" alt="imap98" align="right" /></h2>
 
-<p style="font-size: 2rem; font-weight: 600;"> >>===> Hello world! <picture><img src="./img/earth.gif" width=20px></picture> <===<< </p>
-
-<p style="font-size: 1.25rem; font-weight: 600;"> I'm Ignacio Moises AP! A passionate mid developer from Mexico <img src="https://komarev.com/ghpvc/?username=imap98&label=Profile%20views&color=dfb317&style=flat" alt="imap98" align="right" /></p>
-
-<p style="font-size: 1.5rem; font-weight: 600;"> <picture><img src="./img/programmer.gif" width=70px></picture> About me:</p>
+<h2> <picture><img src="./img/programmer.gif" width=70px></picture> About me:</h2>
 
 -   📚 Computer Sistems Engeneer
 
@@ -24,7 +14,7 @@
 
 <br>
 
-<p style="font-size: 1.25rem; font-weight: 600;"> ========= Connect with me: =========</p>
+<h3> Connect with me: </h3>
 
 <div align="left">
 <a href="https://www.linkedin.com/in/ignacio-moises-arteaga-pelcastre/"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" /></code></a>
@@ -42,7 +32,7 @@
 
 <picture> <img align="right" src="./img/programming.gif" width=450px></picture>
 
-<p style="font-size: 1.25rem; font-weight: 600;"> ============ Frontend: ============= </p>
+<h3> Frontend: </h3>
 
 <div align="left">
 
@@ -75,7 +65,7 @@
 
 <br>
 
-<p style="font-size: 1.25rem; font-weight: 600;"> ============= Backend: =============</p>
+<h3> Backend: </h3>
 
 <div align="left">
 
@@ -97,7 +87,7 @@
 
 <br>
 
-<p style="font-size: 1.25rem; font-weight: 600;"> ======== Other Tecnologies: ========</p>
+<h3> Other Tecnologies: </h3>
 
 <div align="left">
 
@@ -114,7 +104,7 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<p align="center" style="font-size: 1.5rem; font-weight: 600;">🌟 Thought of the day 🌟</p>
+<h3>🌟 Thought of the day 🌟</h3>
 
 <div align="center">
 	<img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?theme=monokai&type=vertical">
@@ -122,7 +112,7 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<p align="center" style="font-size: 1.5rem; font-weight: 600;"> 🐙 GitHub Profile Stats 🐙</p>
+<h3> 🐙 GitHub Profile Stats 🐙</h3>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=imap98&show_icons=true&theme=onedark&hide_border=true">
@@ -131,7 +121,7 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<p align="center" style="font-size: 1.5rem; font-weight: 600;"> 📊 Streak Stats 📊</p>
+<h3> 📊 Streak Stats 📊</h3>
 
 <p align="center">
     <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=imap98&theme=monokai&hide_border=true">
@@ -140,7 +130,7 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<p align="center" style="font-size: 1.5rem; font-weight: 600;"> 🏆 Git profile Trophies 🏆</p>
+<h3> 🏆 Git profile Trophies 🏆</h3>
 
 <p align="center"> 
     <img src="https://github-profile-trophy.vercel.app/?username=imap98&column=4&layout=compact&theme=onedark&margin-w=15&margin-h=15" alt="imap98" />
@@ -148,7 +138,7 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<p align="center" style="font-size: 1.5rem; font-weight: 600;"> 🗃️ My Repositories 🗃️</p>
+<h3> 🗃️ My Repositories 🗃️</h3>
 
 <div>
   <p align="center">
@@ -175,7 +165,7 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<p align="center" style="font-size: 1.5rem; font-weight: 600;"> 🐍 Feeding a snake with my contributions graph 🐍</p>
+<h3> 🐍 Feeding a snake with my contributions graph 🐍</h3>
 
 <p align="center">
 
