@@ -1,35 +1,48 @@
-<h1> Hi 👋, I'm Ignacio Moises AP! </h1>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
 
-<h3> A passionate mid developer from Mexico <img src="https://komarev.com/ghpvc/?username=imap98&label=Profile%20views&color=dfb317&style=flat" alt="imap98" align="right" /></h3>
+<style>
+	body {
+		font-family: 'Fira Code';
+	}
+</style>
 
-<h2> <picture><img src="./img/programmer.gif" width=70px></picture> About me:</h2>
+<p style="font-size: 2rem; font-weight: 600;"> >>===> Hello world! <picture><img src="./img/earth.gif" width=20px></picture> <===<< </p>
 
--   👨‍💻 All of my projects are available at [https://ignaciomoisesarteagapelcastre.netlify.app/](https://ignaciomoisesarteagapelcastre.netlify.app/)
+<p style="font-size: 1.25rem; font-weight: 600;"> I'm Ignacio Moises AP! A passionate mid developer from Mexico <img src="https://komarev.com/ghpvc/?username=imap98&label=Profile%20views&color=dfb317&style=flat" alt="imap98" align="right" /></p>
 
--   📫 You can reach me on **ignacio.moises.arteaga.pelcast@gmail.com**
+<p style="font-size: 1.5rem; font-weight: 600;"> <picture><img src="./img/programmer.gif" width=70px></picture> About me:</p>
 
--   🤓 Always learning new things
+-   📚 Computer Sistems Engeneer
 
--   ⚡ Fun fact **I love cats 😽 & Metal music 🤟🏻**
+-   💻 All of my projects are available at [https://ignaciomoisesarteagapelcastre.netlify.app/](https://ignaciomoisesarteagapelcastre.netlify.app/)
 
-<picture> <img align="right" src="./img/programming.gif" width=250px></picture>
+-   🌱 Always learning new things, I believe that everyday is a learning opportunity
+
+-   🤔 Fun fact **I love cats 😽 & Metal music 🤟🏻**
 
 <br>
 
-<h3> <picture><img src="./img/contact.gif" width=100px></picture> Connect with me:</h3>
+<p style="font-size: 1.25rem; font-weight: 600;"> ========= Connect with me: =========</p>
 
 <div align="left">
-
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" /></code>
+<a href="https://www.linkedin.com/in/ignacio-moises-arteaga-pelcastre/"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" /></code></a>
 <img width="12" />
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40" alt="stackoverflow" /></code>
+<a href="mailto:ignacio.moises.arteaga.pelcast@gmail.com"><code><img src="./img/gmail.png" height="40" alt="gmail" /></code></a>
+<img width="12" />
+<a href="https://stackoverflow.com/users/19015858/ignacio-moises-ap"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40" alt="stackoverflow" /></code></a>
+<img width="12" />
+<a href="https://github.com/IMAP98"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" /></code></a>
 <img width="12" />
 
 </div>
 
 <br>
 
-<h3> <picture><img src="./img/frontend.gif" width=100px></picture> Frontend:</h3>
+<picture> <img align="right" src="./img/programming.gif" width=450px></picture>
+
+<p style="font-size: 1.25rem; font-weight: 600;"> ============ Frontend: ============= </p>
 
 <div align="left">
 
@@ -43,12 +56,18 @@
 <img width="12" />
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" /></code>
 <img width="12" />
+
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" /></code>
 <img width="12" />
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" /></code>
 <img width="12" />
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery" /></code>
+<img width="12" />
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" alt="json" /></code>
+<img width="12" />
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" /></code>
 <img width="12" />
+
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux" /></code>
 <img width="12" />
 
@@ -56,7 +75,7 @@
 
 <br>
 
-<h3> <picture><img src="./img/software.gif" width=100px></picture> Backend:</h3>
+<p style="font-size: 1.25rem; font-weight: 600;"> ============= Backend: =============</p>
 
 <div align="left">
 
@@ -70,6 +89,7 @@
 <img width="12" />
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="firebase" /></code>
 <img width="12" />
+
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" /></code>
 <img width="12" />
 
@@ -77,7 +97,7 @@
 
 <br>
 
-<h3> <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=100px> Other Tecnologies:</h3>
+<p style="font-size: 1.25rem; font-weight: 600;"> ======== Other Tecnologies: ========</p>
 
 <div align="left">
 
@@ -85,20 +105,24 @@
 <img width="12" />
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest" /></code>
 <img width="12" />
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="jest" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vitejs" /></code>
+<img width="12" />
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman" /></code>
 <img width="12" />
 
 </div>
 
 <picture><img src="./img/section.gif"></picture>
 
-<p align="center">
+<p align="center" style="font-size: 1.5rem; font-weight: 600;">🌟 Thought of the day 🌟</p>
+
+<div align="center">
 	<img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?theme=monokai&type=vertical">
-</p>
+</div>
 
 <picture><img src="./img/section.gif"></picture>
 
-<h2> 🐙 GitHub Profile Stats</h2>
+<p align="center" style="font-size: 1.5rem; font-weight: 600;"> 🐙 GitHub Profile Stats 🐙</p>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=imap98&show_icons=true&theme=onedark&hide_border=true">
@@ -107,7 +131,7 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<h2> 🔥 Streak Stats</h2>
+<p align="center" style="font-size: 1.5rem; font-weight: 600;"> 📊 Streak Stats 📊</p>
 
 <p align="center">
     <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=imap98&theme=monokai&hide_border=true">
@@ -116,7 +140,7 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<h2> 🏆 Git profile Trophies</h2>
+<p align="center" style="font-size: 1.5rem; font-weight: 600;"> 🏆 Git profile Trophies 🏆</p>
 
 <p align="center"> 
     <img src="https://github-profile-trophy.vercel.app/?username=imap98&column=4&layout=compact&theme=onedark&margin-w=15&margin-h=15" alt="imap98" />
@@ -124,7 +148,7 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<h2> ✨ My Repositories</h2>
+<p align="center" style="font-size: 1.5rem; font-weight: 600;"> 🗃️ My Repositories 🗃️</p>
 
 <div>
   <p align="center">
@@ -151,7 +175,7 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<h2> 🐍 Feeding a snake with my contributions graph</h2>
+<p align="center" style="font-size: 1.5rem; font-weight: 600;"> 🐍 Feeding a snake with my contributions graph 🐍</p>
 
 <p align="center">
 
