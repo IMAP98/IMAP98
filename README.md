@@ -1,6 +1,6 @@
-<h2> Hello world! <picture><img src="./img/earth.gif" width=20px></picture>  </h2>
+<h2> Hello world! <picture><img src="./img/earth.gif" width=20px></picture> <img src="https://komarev.com/ghpvc/?username=imap98&label=Profile%20views&color=dfb317&style=flat" alt="imap98" align="right" /> </h2>
 
-<h2> I'm Ignacio Moises AP! A passionate mid developer from Mexico <img src="https://komarev.com/ghpvc/?username=imap98&label=Profile%20views&color=dfb317&style=flat" alt="imap98" align="right" /></h2>
+<h2> I'm Ignacio Moises AP! A passionate mid developer from Mexico</h2>
 
 <h2> <picture><img src="./img/programmer.gif" width=70px></picture> About me:</h2>
 
