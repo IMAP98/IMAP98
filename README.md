@@ -1,30 +1,21 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
 
-<style>
-	body, p, div, a {
-		font-family: 'Fira Code' !important;
-	}
-</style>
+<p style="font-size: 2rem; font-weight: 600; font-family: 'Fira Code' !important;"> >>===> Hello world! <picture><img src="./img/earth.gif" width=20px></picture> <===<< </p>
 
-<p style="font-size: 2rem; font-weight: 600;"> >>===> Hello world! <picture><img src="./img/earth.gif" width=20px></picture> <===<< </p>
+<p style="font-size: 1.25rem; font-weight: 600; font-family: 'Fira Code' !important;"> I'm Ignacio Moises AP! A passionate mid developer from Mexico <img src="https://komarev.com/ghpvc/?username=imap98&label=Profile%20views&color=dfb317&style=flat" alt="imap98" align="right" /></p>
 
-<p style="font-size: 1.25rem; font-weight: 600;"> I'm Ignacio Moises AP! A passionate mid developer from Mexico <img src="https://komarev.com/ghpvc/?username=imap98&label=Profile%20views&color=dfb317&style=flat" alt="imap98" align="right" /></p>
+<p style="font-size: 1.5rem; font-weight: 600; font-family: 'Fira Code' !important;"> <picture><img src="./img/programmer.gif" width=70px></picture> About me:</p>
 
-<p style="font-size: 1.5rem; font-weight: 600;"> <picture><img src="./img/programmer.gif" width=70px></picture> About me:</p>
-
--   📚 Computer Sistems Engeneer
-
--   💻 All of my projects are available at [https://ignaciomoisesarteagapelcastre.netlify.app/](https://ignaciomoisesarteagapelcastre.netlify.app/)
-
--   🌱 Always learning new things, I believe that everyday is a learning opportunity
-
--   🤔 Fun fact **I love cats 😽 & Metal music 🤟🏻**
+<ul> 
+	<li style="font-family: 'Fira Code' !important;">📚 Computer Sistems Engeneer</li>
+	<li style="font-family: 'Fira Code' !important;">💻 All of my projects are available at <a href="https://ignaciomoisesarteagapelcastre.netlify.app/">https://ignaciomoisesarteagapelcastre.netlify.app/</a></li>
+	<li style="font-family: 'Fira Code' !important;">🌱 Always learning new things, I believe that everyday is a learning opportunity</li>
+	<li style="font-family: 'Fira Code' !important;">🤔 Fun fact **I love cats 😽 & Metal music 🤟🏻**</li>
+</ul>
 
 <br>
 
-<h3> Connect with me: </h3>
+<h3 style="font-family: 'Fira Code' !important;"> Connect with me: </h3>
 
 <div align="left">
 <a href="https://www.linkedin.com/in/ignacio-moises-arteaga-pelcastre/"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" /></code></a>
@@ -42,7 +33,7 @@
 
 <picture> <img align="right" src="./img/programming.gif" width=450px></picture>
 
-<h3> Frontend: </h3>
+<h3 style="font-family: 'Fira Code' !important;"> Frontend: </h3>
 
 <div align="left">
 
@@ -75,7 +66,7 @@
 
 <br>
 
-<h3> Backend: </h3>
+<h3 style="font-family: 'Fira Code' !important;"> Backend: </h3>
 
 <div align="left">
 
@@ -97,7 +88,7 @@
 
 <br>
 
-<h3> Other Tecnologies: </h3>
+<h3 style="font-family: 'Fira Code' !important;"> Other Tecnologies: </h3>
 
 <div align="left">
 
@@ -114,7 +105,7 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<h3>🌟 Thought of the day 🌟</h3>
+<h3 style="font-family: 'Fira Code' !important;">🌟 Thought of the day 🌟</h3>
 
 <div align="center">
 	<img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?theme=monokai&type=vertical">
@@ -122,7 +113,7 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<h3> 🐙 GitHub Profile Stats 🐙</h3>
+<h3 style="font-family: 'Fira Code' !important;"> 🐙 GitHub Profile Stats 🐙</h3>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=imap98&show_icons=true&theme=onedark&hide_border=true">
@@ -131,7 +122,7 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<h3> 📊 Streak Stats 📊</h3>
+<h3 style="font-family: 'Fira Code' !important;"> 📊 Streak Stats 📊</h3>
 
 <p align="center">
     <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=imap98&theme=monokai&hide_border=true">
@@ -140,7 +131,7 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<h3> 🏆 Git profile Trophies 🏆</h3>
+<h3 style="font-family: 'Fira Code' !important;"> 🏆 Git profile Trophies 🏆</h3>
 
 <p align="center"> 
     <img src="https://github-profile-trophy.vercel.app/?username=imap98&column=4&layout=compact&theme=onedark&margin-w=15&margin-h=15" alt="imap98" />
@@ -148,7 +139,7 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<h3> 🗃️ My Repositories 🗃️</h3>
+<h3 style="font-family: 'Fira Code' !important;"> 🗃️ My Repositories 🗃️</h3>
 
 <div>
   <p align="center">
@@ -175,7 +166,7 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<h3> 🐍 Feeding a snake with my contributions graph 🐍</h3>
+<h3 style="font-family: 'Fira Code' !important;"> 🐍 Feeding a snake with my contributions graph 🐍</h3>
 
 <p align="center">
 
