@@ -1,8 +1,18 @@
-<h2> Hello world! <picture><img src="./img/earth.gif" width=20px></picture> <img src="https://komarev.com/ghpvc/?username=imap98&label=Profile%20views&color=dfb317&style=flat" alt="imap98" align="right" /> </h2>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
 
-<h2> I'm Ignacio Moises AP! A passionate mid developer from Mexico</h2>
+<style>
+	body, p, div, a {
+		font-family: 'Fira Code' !important;
+	}
+</style>
 
-<h2> <picture><img src="./img/programmer.gif" width=70px></picture> About me:</h2>
+<p style="font-size: 2rem; font-weight: 600;"> >>===> Hello world! <picture><img src="./img/earth.gif" width=20px></picture> <===<< </p>
+
+<p style="font-size: 1.25rem; font-weight: 600;"> I'm Ignacio Moises AP! A passionate mid developer from Mexico <img src="https://komarev.com/ghpvc/?username=imap98&label=Profile%20views&color=dfb317&style=flat" alt="imap98" align="right" /></p>
+
+<p style="font-size: 1.5rem; font-weight: 600;"> <picture><img src="./img/programmer.gif" width=70px></picture> About me:</p>
 
 -   📚 Computer Sistems Engeneer
 
