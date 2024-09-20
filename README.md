@@ -1,19 +1,19 @@
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
 
-<p style="font-size: 2rem; font-weight: 600; font-family: 'Fira Code' !important;"> >>===> Hello world! <picture><img src="./img/earth.gif" width=20px></picture> <===<< </p>
+<h1> <picture><img src="./img/earth.gif" width=20px></picture> Hello world! <picture><img src="./img/earth.gif" width=20px></picture> </h1>
 
-<p style="font-size: 1.25rem; font-weight: 600; font-family: 'Fira Code' !important;"> I'm Ignacio Moises AP! A passionate mid developer from Mexico <img src="https://komarev.com/ghpvc/?username=imap98&label=Profile%20views&color=dfb317&style=flat" alt="imap98" align="right" /></p>
+<h2> 😎 I'm Ignacio Moises AP! A passionate mid developer from Mexico <img src="./img/mx.png" width=20px> <img src="https://komarev.com/ghpvc/?username=imap98&label=Profile%20views&color=dfb317&style=flat" alt="imap98" align="right" /></h2>
 
-<p style="font-size: 1.5rem; font-weight: 600; font-family: 'Fira Code' !important;"> <picture><img src="./img/programmer.gif" width=70px></picture> About me:</p>
+<h3> <picture><img src="./img/programmer.gif" width=55px></picture> About me:</h3>
 
 <ul> 
 	<li style="font-family: 'Fira Code' !important;">📚 Computer Sistems Engeneer</li>
 	<li style="font-family: 'Fira Code' !important;">💻 All of my projects are available at <a href="https://ignaciomoisesarteagapelcastre.netlify.app/">https://ignaciomoisesarteagapelcastre.netlify.app/</a></li>
 	<li style="font-family: 'Fira Code' !important;">🌱 Always learning new things, I believe that everyday is a learning opportunity</li>
-	<li style="font-family: 'Fira Code' !important;">🤔 Fun fact **I love cats 😽 & Metal music 🤟🏻**</li>
+	<li style="font-family: 'Fira Code' !important;">🤔 Fun fact <b>I love cats 😽 & Metal music 🤟🏻 </b> </li>
 </ul>
 
-<br>
+<picture><img src="./img/section.gif"></picture>
 
 <h3 style="font-family: 'Fira Code' !important;"> Connect with me: </h3>
 
