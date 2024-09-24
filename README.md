@@ -142,26 +142,30 @@
 <h3 style="font-family: 'Fira Code' !important;"> 🗃️ My Repositories 🗃️</h3>
 
 <div>
-  <p align="center">
-	<a href="https://github.com/IMAP98/patients-zuztand">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=imap98&repo=patients-zuztand&theme=onedark" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/imap98/calorie-tracker">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=imap98&repo=calorie-tracker&theme=onedark" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/imap98/personal-finance">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=imap98&repo=personal-finance&theme=onedark" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/imap98/tip_calculator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=imap98&repo=tip_calculator&theme=onedark" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/imap98/guitarla-ts">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=imap98&repo=guitarla-ts&theme=onedark" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/imap98/search-heros">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=imap98&repo=search-heros&theme=onedark" alt="GitHub Stats" />
-    	</a>
-  </p>
+	<p align="center">
+		<a href="https://github.com/IMAP98/patients-zuztand">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=imap98&repo=patients-zuztand&theme=onedark" alt="GitHub Stats" />
+		</a>
+		<a href="https://github.com/imap98/calorie-tracker">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=imap98&repo=calorie-tracker&theme=onedark" alt="GitHub Stats" />
+		</a>
+		<a href="https://github.com/imap98/personal-finance">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=imap98&repo=personal-finance&theme=onedark" alt="GitHub Stats" />
+		</a>
+		<a href="https://github.com/imap98/tip_calculator">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=imap98&repo=tip_calculator&theme=onedark" alt="GitHub Stats" />
+		</a>
+		<a href="https://github.com/imap98/guitarla-ts">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=imap98&repo=guitarla-ts&theme=onedark" alt="GitHub Stats" />
+		</a>
+		<a href="https://github.com/imap98/search-heros">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=imap98&repo=search-heros&theme=onedark" alt="GitHub Stats" />
+		</a>
+		</a>
+		<a href="https://github.com/imap98/weather-api">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=imap98&repo=weather-api&theme=onedark" alt="GitHub Stats" />
+		</a>
+	</p>
 </div>
 
 <picture><img src="./img/section.gif"></picture>
