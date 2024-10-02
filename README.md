@@ -165,6 +165,9 @@
 		<a href="https://github.com/imap98/weather-api">
 			<img src="https://github-readme-stats.vercel.app/api/pin/?username=imap98&repo=weather-api&theme=onedark" alt="GitHub Stats" />
 		</a>
+		<a href="https://github.com/IMAP98/drinks-api-react-ts-imap">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=imap98&repo=drinks-api-react-ts-imap&theme=onedark" alt="GitHub Stats" />
+		</a>
 	</p>
 </div>
 
