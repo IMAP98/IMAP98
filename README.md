@@ -2,7 +2,7 @@
 
 <h1> <picture><img src="./img/earth.gif" width=20px></picture> Hello world! <picture><img src="./img/earth.gif" width=20px></picture> </h1>
 
-<h2> 😎 I'm Ignacio Moises AP! A passionate mid developer from Mexico <img src="./img/mx.png" width=20px> <img src="https://komarev.com/ghpvc/?username=imap98&label=Profile%20views&color=dfb317&style=flat" alt="imap98" align="right" /></h2>
+<h2> 😎 I'm Ignacio Moises AP! A passionate senior developer from Mexico <img src="./img/mx.png" width=20px> <img src="https://komarev.com/ghpvc/?username=imap98&label=Profile%20views&color=dfb317&style=flat" alt="imap98" align="right" /></h2>
 
 <h3> <picture><img src="./img/programmer.gif" width=55px></picture> About me:</h3>
 
