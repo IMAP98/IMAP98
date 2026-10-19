@@ -131,11 +131,11 @@
 
 <picture><img src="./img/section.gif"></picture>
 
-<h3 style="font-family: 'Fira Code' !important;"> 🏆 Git profile Trophies 🏆</h3>
+<!-- <h3 style="font-family: 'Fira Code' !important;"> 🏆 Git profile Trophies 🏆</h3>
 
 <p align="center"> 
     <img src="https://github-profile-trophy.vercel.app/?username=imap98&column=4&layout=compact&theme=onedark&margin-w=15&margin-h=15" alt="imap98" />
-</p>
+</p> -->
 
 <picture><img src="./img/section.gif"></picture>
 
